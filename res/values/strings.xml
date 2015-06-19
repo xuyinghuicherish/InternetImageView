@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InternetImageView</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+     <string name="address">http://img5.duitang.com/uploads/item/201407/07/20140707212215_RHL8S.jpeg</string>
+     <string name="error">图片加载失败</string>
+     <string name="success">图片加载成功</string>
+     <string name="NOnull">图片路径不能为空</string>
+</resources>
